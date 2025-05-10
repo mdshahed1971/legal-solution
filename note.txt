@@ -1,0 +1,21 @@
+
+<!-- cilent start -->
+<div class="container mx-auto text-center">
+  <h2 class="text-[#414040] font-garamond lg:text-[40px] md:text-3xl text-2xl font-extrabold">What Our Client Say</h2>
+  <p class="text-[#707070] text-base font-poppins font-normal leading-[26px] md:mt-6 mt-4 lg:mb-16 md:mb-10 mb-5 ">There are many variations of passages of Lorem Ipsum available, but the majority have <br>suffered alteration in some form, by injected humour.</p>
+</div>
+<!-- cilent end -->
+
+ <!-- designer start -->
+ <section class="container mx-auto h-[500px] lg:mb-[120px] md:mb-10 mb-5" style="background-image:url(./img/banner.png);">
+  <div class="text-center">
+    <div class="flex justify-center mt-5">
+      <img src="./img/client.png" alt="" class="mt-[20px]">
+    </div>
+    <h3 class="text-[#FFF] font-garamond md:text-2xl text-xl font-extrabold">Awlad Hossain</h3>
+    <p class="text-[#FFF] font-poppins text-base  font-normal leading-[26px] md:mb-8 mb-5 mt-[5px]">UIX Designer</p>
+    <p class="text-[#F3F3F3] font-poppins md:text-base text-sm font-normal leading-[26px]">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin <br>literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney <br>College in Virginia, looked up one of the more obscure Latin words, consectetur.</p>
+  </div>
+</section>
+
+<!-- designer end -->
